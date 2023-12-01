@@ -5472,7 +5472,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2019945693}
-        m_TargetAssemblyTypeName: NotAMenu, Assembly-CSharp
+        m_TargetAssemblyTypeName: SoundController, Assembly-CSharp
         m_MethodName: ModifySoundVolume
         m_Mode: 1
         m_Arguments:
@@ -5530,7 +5530,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2019945688}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4fedfc66b51da741b849a97ff3bb9efb, type: 3}
+  m_Script: {fileID: 11500000, guid: 2caad8c17f53f6ad0acf65a8cab8bc55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2030633445

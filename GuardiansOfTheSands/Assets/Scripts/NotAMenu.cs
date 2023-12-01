@@ -27,11 +27,6 @@ public class NotAMenu : MonoBehaviour
         Application.Quit();
     }
 
-    public void ModifySoundVolume()
-    {
-        AudioListener.volume = GetComponent<Scrollbar>().value;
-    }
-
     // Update is called once per frame
     void Update()
     {

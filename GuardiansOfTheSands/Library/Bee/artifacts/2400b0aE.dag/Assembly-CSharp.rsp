@@ -348,8 +348,14 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/home/ThibaudCharrier/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/ThibaudCharrier/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/CheckEnemy.cs"
+"Assets/Scripts/Collectible.cs"
+"Assets/Scripts/Enemy.cs"
 "Assets/Scripts/NotAMenu.cs"
+"Assets/Scripts/NotMario.cs"
+"Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/SetActiveBtn.cs"
+"Assets/Scripts/SoundController.cs"
 "Assets/Scripts/WinLose.cs"
 -langversion:9.0
 
